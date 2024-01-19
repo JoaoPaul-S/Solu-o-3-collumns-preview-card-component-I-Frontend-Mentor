@@ -30,7 +30,7 @@ p, a{
     display: grid;
     grid-template-areas: 
     "sedans suvs luxury";
-    grid-template-columns: repeat(3, 270px);
+    grid-template-columns: repeat(3, 1fr);
 }
 
 section{
